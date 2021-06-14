@@ -1,10 +1,9 @@
-# Project 1: Content-based recommenders
+# Project 2: Neural-network recommender
 
 ### Project description
-This project tests various content-based recommenders (LinearRegression, SVR, RandomForest, XGBoost) to recommend hotel rooms to users. Final results are compared to AmazonRecommender.
-Project does data preparation, tuning recommenders' parameters and etc.
+Task there is to code a recommender based on a neural network model, tune it and evaluate it. This project tests different network architectures, different optimizers and their params as well as different sets of features given as input to the network.
 - **project_1_data_preparation.ipynb** contains basic data preprocessing
-- **project_1_recommender_and_evaluation.ipynb** prepares user features, item features, code the recommender, tune it and validate it.
+- **project_2_recommender_and_evaluation.ipynb** prepares user features, item features, code the recommender, tune it and validate it.
 
 Goal is to achieve the best HR@10 metric in the final evaluation.
 
