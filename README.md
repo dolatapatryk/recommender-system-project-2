@@ -7,7 +7,7 @@ Task there is to code a recommender based on a neural network model, tune it and
 
 Goal is to achieve the best HR@10 metric in the final evaluation.
 
-### Required python libs
+### Required python libs:
  - numpy
  - pandas
  - matplotlib
@@ -16,4 +16,14 @@ Goal is to achieve the best HR@10 metric in the final evaluation.
  - PyTorch
  - livelossplot
 
+### Project was tested (and it works) on:
+ - OS: **Manjaro Linux 64bit**
+ - Python: **3.7.4**
+ - numpy: **1.19.3**
+ - pandas: **1.2.3**
+ - matplotlib: **3.1.1**
+ - seaborn: **0.11.1**
+ - IPython: **7.8.0**
+ - PyTorch: **1.4.0**
+ - livelossplot: **0.5.4**
 	
